@@ -1,4 +1,4 @@
-# Trabajo optativo de web scrapping / API. Yeray Li Loaiza
+# Trabajo optativo de web scrapping
 
 En este informe vamos a explicar como hemos recopilado el dataset `liga2022-2023.arff` que recopila diferentes estadísticas, de todos los jugadores profesionales de la Liga, como goles, faltas, tiros a puerta, pases clave etc. Todos estos datos los hemos extraido de la web [Sofascore](www.sofascore.com) que es famosa por recopilar este tipo de información. Nuestro dataset tiene en total 541 línea y se podría extrapolar a cualquier liga o competición que recopile Sofascore.
 
